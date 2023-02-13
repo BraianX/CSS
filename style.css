@@ -1,0 +1,23 @@
+#container {
+    background-color:blue;
+color: white;
+text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black;
+    border-width: 1px;
+    width: 40%;
+}
+ol{
+    display: inline-block;
+}
+.important {
+    color: yellow;
+    font-weight: bold;
+}
+.title{
+    color: red;
+    font-weight: bolder;
+}
